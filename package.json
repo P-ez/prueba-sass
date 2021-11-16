@@ -13,7 +13,7 @@
   "dependencies": {
     "socket.io": "^4.3.2"
   },
-  "devDependencies": {
+  "Dependencies": {
     "sass": "^1.43.4"
   }
 }
