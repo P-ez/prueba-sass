@@ -1,0 +1,19 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch sass/general.scss css/general.css",
+    "pro": "sass --no-source-map --style=compressed sass/general.scss css/general.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.3.2"
+  },
+  "devDependencies": {
+    "sass": "^1.43.4"
+  }
+}
